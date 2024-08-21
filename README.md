@@ -15,4 +15,5 @@ Features
   Transformer Blocks: Construction of multiple transformer layers to build the full GPT model.
 
 Files in the Repository
+
 BuildingGPT.ipynb: A Jupyter notebook containing the code to build the GPT model from scratch, step by step.
